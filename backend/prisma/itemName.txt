@@ -1,0 +1,8 @@
+Тестовое задание: сервис на Nest + фронт на Vue + нагрузка
+Технологии (обязательные)
+Backend: NestJS (TypeScript)
+БД: PostgreSQL (через docker-compose)
+Frontend: Vue 3
+Контейнеризация: Docker / docker-compose
+Git-репозиторий (GitHub / GitLab / Bitbucket) — ссылку прислать в ответ.
+Можно использовать ИИ
